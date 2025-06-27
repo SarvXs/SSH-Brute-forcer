@@ -1,4 +1,4 @@
-# SSH-Brute-forcer
+ SSH-Brute-forcer
 
 
 ````markdown
@@ -8,15 +8,15 @@ A Python tool to perform SSH brute-force attacks on remote servers using usernam
 
 ---
 
-## ⚙️ Features
+ ⚙️ Features
 
-- 🧠 Utilizes **Paramiko** for establishing SSH connections
-- 🎯 Option to **execute a custom command** after successful authentication
+- 🧠 Utilizes Paramiko for establishing SSH connections
+- 🎯 Option to execute a custom command** after successful authentication
 - 🎨 Displays a stylized ASCII banner using **PyFiglet**
 
 ---
 
-## 📦 Requirements
+ 📦 Requirements
 
 - Python 3.x
 - Install required libraries:
@@ -27,22 +27,22 @@ pip install paramiko pyfiglet
 
 ---
 
-## 🚀 Usage
+ 🚀 Usage
 
-### 1️⃣ Clone the Repository
+ 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/ssh-brute-forcer.git
 cd ssh-brute-forcer
 ```
 
-### 2️⃣ Run the Script
+ 2️⃣ Run the Script
 
 ```bash
 python ssh_brute_forcer.py --users /path/to/users.txt --passes /path/to/passwords.txt --host <remote_host_ip> --port <remote_host_port> --cmd "<command_to_execute>"
 ```
 
-### 📌 Arguments:
+ 📌 Arguments:
 
 | Argument   | Description                                          |
 | ---------- | ---------------------------------------------------- |
@@ -63,25 +63,22 @@ This tool is intended **strictly for educational and authorized penetration test
 
 ---
 
-## 📝 License
+ 📝 License
 
 This project is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## 👤 Author
+ 👤 Author
 
 Created by [Sarvesvaraan (SarvXs)](https://github.com/SarvXs)
 📫 [k.s.sarvesvaraan@gmail.com](mailto:k.s.sarvesvaraan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sarvesvaraan-k-s-a06a76251)
 
 ---
 
-```
 
----
-
-### ✅ Next Steps
+ ✅ Next Steps
 
 - Paste this into your `ssh-brute-forcer/README.md`
 - Make sure the file `ssh_brute_forcer.py` and sample `users.txt`, `passwords.txt` exist (if applicable)
