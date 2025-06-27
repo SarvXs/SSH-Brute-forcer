@@ -78,11 +78,4 @@ Created by [Sarvesvaraan (SarvXs)](https://github.com/SarvXs)
 ---
 
 
- ✅ Next Steps
 
-- Paste this into your `ssh-brute-forcer/README.md`
-- Make sure the file `ssh_brute_forcer.py` and sample `users.txt`, `passwords.txt` exist (if applicable)
-- Optionally, add a demo screenshot or terminal GIF for extra impact
-
-Want help generating those sample wordlists or a banner ASCII logo?
-```
